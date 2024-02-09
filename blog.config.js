@@ -2,7 +2,7 @@ const BLOG = {
   title: "Aron's Blog",
   author: "Aron Young",
   email: "yxxyyijiaren@gmail.com",
-  link: "https://aron505.xyz",
+  link: "https://blog.aron505.xyz",
   description: "Wubba Lubba dub-dub",
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: "https://og-image-craigary.vercel.app", // The link to generate OG image, don't end with a slash
   socialLink: "",
   seo: {
-    keywords: ["Blog", "Website", "Notion", "Programming"],
+    keywords: ["Blog", "博客", "Notion", "Programming", "Learning", "Aron505"],
     googleSiteVerification: "", // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
