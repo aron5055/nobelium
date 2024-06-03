@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: "https://og-image-craigary.vercel.app", // The link to generate OG image, don't end with a slash
   socialLink: "",
   seo: {
-    keywords: ["Blog", "博客", "Notion", "Programming", "Learning", "Aron505"],
+    keywords: ["Blog", "博客", "Notion", "Programming", "Learning", "AronYang"],
     googleSiteVerification: "", // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
