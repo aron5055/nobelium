@@ -1,9 +1,9 @@
 const BLOG = {
   title: "Aron's Blog",
   author: "Aron Yang",
-  email: "imaronyang@gmail.com",
+  email: "impixelhu@gmail.com",
   link: "https://blog.aronyang.com",
-  description: "Wubba Lubba dub-dub",
+  description: "Self-improvement is masturbation.",
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "light", // ['light', 'dark', 'auto'],
