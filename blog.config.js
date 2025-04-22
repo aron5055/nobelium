@@ -3,7 +3,7 @@ const BLOG = {
   author: "Aron Yang",
   email: "impixelhu@gmail.com",
   link: "https://blog.aronyang.com",
-  description: "作为神的儿子，我从不会轻贱自己",
+  description: "我的价值来源于人生的痛苦",
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "light", // ['light', 'dark', 'auto'],
