@@ -3,7 +3,7 @@ const BLOG = {
   author: "Aron Yang",
   email: "impixelhu@gmail.com",
   link: "https://blog.aronyang.com",
-  description: "I love Alice.",
+  description: "Aron Yang 的个人博客，分享技术学习笔记、生活哲思和成长记录。",
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: "Asia/Shanghai", // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: "light", // ['light', 'dark', 'auto'],
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: "https://og-image-craigary.vercel.app", // The link to generate OG image, don't end with a slash
   socialLink: "",
   seo: {
-    keywords: ["Blog", "博客", "Notion", "AronYang", "Aron"],
+    keywords: ["编程博客", "AronYang", "Aron", "技术笔记", "哲学思考"],
     googleSiteVerification: "", // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
